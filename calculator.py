@@ -11,7 +11,7 @@ def subtract( first, second):
 def multiply( first, second):
     # TODO:
     # fill in code here that will return the product of first and second
-    return frist * second
+    return first * second
 
 def divide( first, second):
     # TODO:
